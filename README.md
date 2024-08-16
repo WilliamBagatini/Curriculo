@@ -8,6 +8,6 @@
 <img src="https://camo.githubusercontent.com/d9d5f1056521bfc098aba61e553341d1c7a09be07b0a2afa670fe85abc11e936/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d57696c6c69616d4261676174696e69267468656d653d6e696768746f776c2673686f775f69636f6e733d7472756526686964655f626f726465723d66616c7365266c61796f75743d636f6d70616374" width="400" />
 
 # Sobre mim
-🧑‍💻 Atualmente estou trabalhando na BRF como Jovem Aprendiz e estudando desenvolvimento de software no Senac
+🧑‍💻 Atualmente estou trabalhando na BRF como Jovem Aprendiz e estudando desenvolvimento de software no Senac 
 -👓 Estou me aperfeiçoando em HTML, CSS, JavaScript, Spring e Java
 -🌐 Sempre procuro ajudar a comunidade de tecnologia da informação.<br>
