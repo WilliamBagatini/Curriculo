@@ -12,7 +12,7 @@
 -👓 Estou me aperfeiçoando em HTML, CSS, JavaScript, Spring e Java <br>
 -🌐 Sempre procuro ajudar a comunidade de tecnologia da informação.<br>
 
-#SKILLS
+#Skills
 <div>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -26,4 +26,8 @@
 <div>
   <a href="mailto:bagatini.william@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/5549988965026"
+  </a>
 </div>
