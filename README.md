@@ -1,5 +1,5 @@
 # Olá! 👋 Bem vindo ao meu perfil do GITHUB.
-## I'm William Tasca Bagatini, a software developer and a student of tecnology.
+## Me chamo William Tasca Bagatini, sou desenvolvedor de software e estudante de tecnologia.
 
 <img src="https://camo.githubusercontent.com/d229a54c33e22b9840f2e054fb84f722fefc03bbfa4371d3297cc8dc8fd3ede3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d57696c6c69616d4261676174696e69267468656d653d6e696768746f776c2673686f775f69636f6e733d7472756526686964655f626f726465723d66616c736526636f756e745f707269766174653d74727565" width="400" />
 
