@@ -10,7 +10,7 @@
 # Sobre mim
 🧑‍💻 Atualmente estou trabalhando na BRF como Jovem Aprendiz e estudando desenvolvimento de software no Senac <br>
 -👓 Estou me aperfeiçoando em HTML, CSS, JavaScript, Spring e Java <br>
--🌐 Sempre procuro ajudar a comunidade de tecnologia da informação.<br>
+-🌐 Sempre procuro ajudar a comunidade de tecnologia da informaçãosss.<br>
 
 #Skills
 <div>
